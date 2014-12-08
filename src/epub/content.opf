@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long</dc:identifier>
+		<dc:date>2014-05-25T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">2015-02-06T01:54:02Z</meta>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
+		<link href="epub/onix.xml" rel="onix-record"/>
+		<dc:title id="title">Meditations</dc:title>
+		<meta property="file-as" refines="#title">Meditations</meta>
+		<dc:subject id="subject-1">Ethics--Early works to 1800</dc:subject>
+		<dc:subject id="subject-2">Stoics--Early works to 1800</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/20011795</meta>
+		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/20011795</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Roman Emperor Marcus Aurelius Antoninus Augustus was the model of what we call a philosopher-king.  Though his rule was troubled by war and conflict, he remained a thoughtful and even-handed ruler.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Meditations&lt;/i&gt; isn&amp;rsquo;t a complete book, but rather a collection of his personal diary entries written over a ten-year campaign in Greece.  The entries were never meant to be published; instead, they were a reminder to himself of how to remain calm, tranquil, and kind, even in the worst of situations.  In them we see the emperor working out how to deal with the everyday problems all of us face: annoying coworkers, difficult family members, the expectations of others, unrealized goals and achievements, and, ultimately, happiness.&lt;/p&gt;
+			&lt;p&gt;The episodic nature of &lt;i&gt;Meditations&lt;/i&gt; makes it hard to follow at times, but in exchange we get a deeply personal window into the life of one of Rome&amp;rsquo;s most unique emperors, and more importantly, a handbook of thoughtful advice on how to live a tranquil, satisfied, and productive life.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://classics.mit.edu/Antoninus/meditations.html</dc:source>
+		<dc:source>http://books.google.com/books?id=i9iUswYUMmUC</dc:source>
+		<meta property="se:word-count">45604</meta>
+		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Meditations</meta>
+		<dc:creator id="author">Marcus Aurelius</dc:creator>
+		<meta property="file-as" refines="#author">Aurelius, Marcus</meta>
+		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Marcus_Aurelius</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">George Long</dc:contributor>
+		<meta property="file-as" refines="#translator">Long, George</meta>
+		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Sir Lawrence Alma-Tadema</dc:contributor>
+		<meta property="file-as" refines="#artist">Alma-Tadema, Lawrence</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">The Internet Classics Archive</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Internet Classics Archive, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">http://classics.mit.edu/</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">typ</meta>
+	</metadata>
+	<manifest>
+		<item href="onix.xml" id="onix.xml" media-type="application/xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-4.xhtml" id="book-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-5.xhtml" id="book-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-6.xhtml" id="book-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-7.xhtml" id="book-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-8.xhtml" id="book-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-9.xhtml" id="book-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-10.xhtml" id="book-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-11.xhtml" id="book-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-12.xhtml" id="book-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="book-1.xhtml"/>
+		<itemref idref="book-2.xhtml"/>
+		<itemref idref="book-3.xhtml"/>
+		<itemref idref="book-4.xhtml"/>
+		<itemref idref="book-5.xhtml"/>
+		<itemref idref="book-6.xhtml"/>
+		<itemref idref="book-7.xhtml"/>
+		<itemref idref="book-8.xhtml"/>
+		<itemref idref="book-9.xhtml"/>
+		<itemref idref="book-10.xhtml"/>
+		<itemref idref="book-11.xhtml"/>
+		<itemref idref="book-12.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="unlicense.xhtml"/>
+	</spine>
+</package>
