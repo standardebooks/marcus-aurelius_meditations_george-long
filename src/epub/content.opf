@@ -39,17 +39,17 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marcus-aurelius_meditations_george-long</meta>
 		<dc:creator id="author">Marcus Aurelius</dc:creator>
 		<meta property="file-as" refines="#author">Aurelius, Marcus</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Marcus_Aurelius</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Marcus_Aurelius</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Long</dc:contributor>
 		<meta property="file-as" refines="#translator">Long, George</meta>
-		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/George_Long_(scholar)</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Sir Lawrence Alma-Tadema</dc:contributor>
 		<meta property="file-as" refines="#artist">Alma-Tadema, Lawrence</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Internet Classics Archive</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Internet Classics Archive, The</meta>
