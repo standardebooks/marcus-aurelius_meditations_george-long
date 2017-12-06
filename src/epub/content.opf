@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-10-19T03:20:39Z</meta>
-		<meta property="se:revision-number">49</meta>
+		<meta property="dcterms:modified">2017-12-06T00:15:28Z</meta>
+		<meta property="se:revision-number">50</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,7 +35,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://classics.mit.edu/Antoninus/meditations.html</dc:source>
 		<dc:source>http://books.google.com/books?id=i9iUswYUMmUC</dc:source>
-		<meta property="se:word-count">45604</meta>
+		<meta property="se:word-count">45603</meta>
 		<meta property="se:reading-ease.flesch">61.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Meditations</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marcus-aurelius_meditations_george-long</meta>
