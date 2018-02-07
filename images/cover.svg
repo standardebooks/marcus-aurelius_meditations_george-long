@@ -22,7 +22,7 @@
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z" />
+	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
 	<text class="title" x="700" y="1825">MEDITATIONS</text>
 	<text class="author" x="700" y="1925">MARCUS AURELIUS</text>
 </svg>
