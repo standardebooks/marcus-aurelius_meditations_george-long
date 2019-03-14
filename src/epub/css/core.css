@@ -136,11 +136,6 @@ section[epub|type~="imprint"] p{
 	width: 75%;
 }
 
-a.raw-url{
-	hyphens: none;
-	-epub-hyphens: none;
-}
-
 section[epub|type~="colophon"] p + p::before{
 	border-top: 1px solid;
 	content: "";
@@ -149,11 +144,14 @@ section[epub|type~="colophon"] p + p::before{
 	width: 25%;
 }
 
-section[epub|type~="colophon"] a,
-section[epub|type~="colophon"] .name,
-section[epub|type~="colophon"] .release-date,
-section[epub|type~="colophon"] .revision-date{
+section[epub|type~="colophon"] a{
 	font-variant: small-caps;
+}
+
+section[epub|type~="imprint"] a,
+section[epub|type~="colophon"] a{
+	hyphens: none;
+	-epub-hyphens: none;
 }
 
 section[epub|type~="copyright-page"] p{
