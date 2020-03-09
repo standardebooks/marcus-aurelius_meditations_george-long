@@ -45,8 +45,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://classics.mit.edu/Antoninus/meditations.html</dc:source>
 		<dc:source>http://books.google.com/books?id=i9iUswYUMmUC</dc:source>
-		<meta property="se:word-count">45603</meta>
-		<meta property="se:reading-ease.flesch">61.6</meta>
+		<meta property="se:word-count">45696</meta>
+		<meta property="se:reading-ease.flesch">61.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Meditations</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marcus-aurelius_meditations_george-long</meta>
 		<dc:creator id="author">Marcus Aurelius</dc:creator>
