@@ -38,7 +38,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Roman Emperor Marcus Aurelius Antoninus Augustus was the model of what we call a philosopher-king. Though his rule was troubled by war and conflict, he remained a thoughtful and even-handed ruler.&lt;/p&gt;
+			&lt;p&gt;Roman Emperor &lt;a href="https://standardebooks.org/ebooks/marcus-aurelius"&gt;Marcus Aurelius Antoninus Augustus&lt;/a&gt; was the model of what we call a philosopher-king. Though his rule was troubled by war and conflict, he remained a thoughtful and even-handed ruler.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Meditations&lt;/i&gt; isn’t a complete book, but rather a collection of his personal diary entries written over a ten-year campaign in Greece. The entries were never meant to be published; instead, they were a reminder to himself of how to remain calm, tranquil, and kind, even in the worst of situations. In them we see the emperor working out how to deal with the everyday problems all of us face: annoying coworkers, difficult family members, the expectations of others, unrealized goals and achievements, and, ultimately, happiness.&lt;/p&gt;
 			&lt;p&gt;The episodic nature of &lt;i&gt;Meditations&lt;/i&gt; makes it hard to follow at times, but in exchange we get a deeply personal window into the life of one of Rome’s most unique emperors, and more importantly, a handbook of thoughtful advice on how to live a tranquil, satisfied, and productive life.&lt;/p&gt;
 		</meta>
