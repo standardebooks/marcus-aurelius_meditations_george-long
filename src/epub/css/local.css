@@ -15,7 +15,3 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
