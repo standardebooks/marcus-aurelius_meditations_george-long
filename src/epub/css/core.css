@@ -103,7 +103,7 @@ header{
 	text-align: center;
 }
 
-header > p + p{
+header > * + p{
 	text-indent: 0;
 }
 
