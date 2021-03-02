@@ -36,6 +36,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010114783</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Roman Emperor &lt;a href="https://standardebooks.org/ebooks/marcus-aurelius"&gt;Marcus Aurelius Antoninus Augustus&lt;/a&gt; was the model of what we call a philosopher-king. Though his rule was troubled by war and conflict, he remained a thoughtful and even-handed ruler.&lt;/p&gt;
