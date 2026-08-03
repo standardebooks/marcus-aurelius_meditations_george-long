@@ -4,7 +4,6 @@
 body{
 	font-variant-numeric: oldstyle-nums;
 	hyphens: auto;
-	-epub-hyphens: auto;
 	text-wrap: pretty;
 }
 
@@ -41,43 +40,70 @@ hgroup{
 	break-inside: avoid;
 	font-variant: small-caps;
 	hyphens: none;
-	-epub-hyphens: none;
 	margin: 3em 0;
 	text-align: center;
 }
 
-/* simulate h3 in an hgroup */
-hgroup h2 + p{
-	font-size: 1.17em;
+hgroup:has(h1){
+	margin: 6em 0;
 }
 
-/* simulate h4 in an hgroup */
-hgroup h2 + p + p,
-hgroup h3 + p{
-	font-size: 1em;
+hgroup:has(h2){
+	margin: 4.5em 0;
 }
 
-/* simulate h5 in an hgroup */
-hgroup h2 + p + p + p,
-hgroup h3 + p + p,
-hgroup h4 + p{
-	font-size: .83em;
+hgroup:has(h3){
+	margin: 3.51em 0;
 }
 
-/* simulate h6 in an hgroup */
-hgroup h2 + p + p + p + p,
-hgroup h3 + p + p + p,
-hgroup h4 + p + p,
-hgroup h5 + p{
-	font-size: .67em;
+hgroup:has(h4){
+	margin: 3em 0;
+}
+
+hgroup:has(h5){
+	margin: 2.49em 0;
+}
+
+hgroup:has(h6){
+	margin: 2.01em 0;
 }
 
 hgroup > *{
-	font-weight: normal;
 	margin: 0;
 }
 
-hgroup > *:first-child{
+/* Simulate `<h2>` in an `<hgroup>`. */
+hgroup > h1 + p{
+	font-size: 1.5em;
+}
+
+/* Simulate `<h3>` in an `<hgroup>`. */
+hgroup > h2 + p{
+	font-size: 1.17em;
+}
+
+/* Simulate `<h4>` in an `<hgroup>`. */
+hgroup > h2 + p + p,
+hgroup > h3 + p{
+	font-size: 1em;
+}
+
+/* Simulate `<h5>` in an `<hgroup>`. */
+hgroup > h2 + p + p + p,
+hgroup > h3 + p + p,
+hgroup > h4 + p{
+	font-size: .83em;
+}
+
+/* Simulate `<h6>` in an `<hgroup>`. */
+hgroup > h2 + p + p + p + p,
+hgroup > h3 + p + p + p,
+hgroup > h4 + p + p,
+hgroup > h5 + p{
+	font-size: .67em;
+}
+
+hgroup > p:first-child{
 	font-weight: bold;
 }
 
@@ -140,7 +166,6 @@ header{
 	break-after: avoid;
 	break-inside: avoid;
 	hyphens: none;
-	-epub-hyphens: none;
 	text-align: center;
 }
 
