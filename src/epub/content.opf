@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
@@ -39,12 +39,12 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The personal diary of the Roman Emperor, in which he lays out his thoughts and philosophical musings on the Stoic philosophy and way of life.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Roman Emperor &lt;a href="https://standardebooks.org/ebooks/marcus-aurelius"&gt;Marcus Aurelius Antoninus Augustus&lt;/a&gt; was the model of what we call a philosopher-king. Though his rule was troubled by war and conflict, he remained a thoughtful and even-handed ruler.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Meditations&lt;/i&gt; isn’t a complete book, but rather a collection of his personal diary entries written over a ten-year campaign in Greece. The entries were never meant to be published; instead, they were a reminder to himself of how to remain calm, tranquil, and kind, even in the worst of situations. In them we see the emperor working out how to deal with the everyday problems all of us face: annoying coworkers, difficult family members, the expectations of others, unrealized goals and achievements, and, ultimately, happiness.&lt;/p&gt;
 			&lt;p&gt;The episodic nature of &lt;i&gt;Meditations&lt;/i&gt; makes it hard to follow at times, but in exchange we get a deeply personal window into the life of one of Rome’s most unique emperors, and more importantly, a handbook of thoughtful advice on how to live a tranquil, satisfied, and productive life.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://classics.mit.edu/Antoninus/meditations.html</dc:source>
 		<dc:source>http://books.google.com/books?id=i9iUswYUMmUC</dc:source>
